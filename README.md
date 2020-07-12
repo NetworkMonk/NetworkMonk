@@ -1,4 +1,4 @@
-![Alt text](/Cover.png "James Plant Cover")
+![Alt text](https://raw.githubusercontent.com/NetworkMonk/NetworkMonk/master/Cover.png "James Plant Cover")
 
 Hi, I'm James. This page is where I publish lots of different ideas. I work in mainly in JavaScript, PHP, Go. And I like to use React and Laravel. I also do some WordPress tweaking.
 
